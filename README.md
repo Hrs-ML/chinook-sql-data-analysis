@@ -134,7 +134,7 @@ chinook-sql-data-analysis/
 ├── report/
 │   └── Chinook_SQL_Analysis_Report.pdf
 │
-└── screenshots/
+└── Images/
     ├── 01_revenue_by_genre.png
     ├── 02_top_artists_by_revenue.png
     ├── 03_country_performance.png
